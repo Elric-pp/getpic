@@ -1,0 +1,17 @@
+{
+  "name": "node_pic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "eventproxy": "^0.3.4",
+    "express": "^4.12.4",
+    "superagent": "^1.2.0"
+  }
+}
